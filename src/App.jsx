@@ -2,6 +2,8 @@ function App() {
   return (
     <>
       <h1>Shopping Cart with React Hooks and Context</h1>
+
+      
     </>
   );
 }
